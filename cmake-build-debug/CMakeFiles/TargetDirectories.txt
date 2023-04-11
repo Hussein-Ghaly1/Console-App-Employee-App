@@ -1,0 +1,3 @@
+C:/Users/ghaly_ya318jv/CLionProjects/employeeApplication/cmake-build-debug/CMakeFiles/employeeApplication.dir
+C:/Users/ghaly_ya318jv/CLionProjects/employeeApplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ghaly_ya318jv/CLionProjects/employeeApplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
